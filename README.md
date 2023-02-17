@@ -6,6 +6,8 @@ Simple React.js COVID-19 tracking web application. It fetches data from a remote
 #🎁Additional Functionaliy 
 The web app was translated to Bulgarian and German (you can switch the language from the top central menu). The translations happens without the need to reload the page
 
+##📨API Used: 
+
 ## Inspired by: 
 JavaScript Mastery - https://youtu.be/khJlrj3Y6Ls
 
