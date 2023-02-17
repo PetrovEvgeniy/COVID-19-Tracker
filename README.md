@@ -1,4 +1,4 @@
-# 😷Covid-19 Online Tracker
+# 😷Covid-19 Online Tracker [!NO LONGER SUPPORTED]
 
 # 💡Basic Functionaliy 
 Simple React.js COVID-19 tracking web application. It fetches data from a remote trusted API and displays data about cases of COVID-19, number of recoveries and deaths. 
@@ -6,7 +6,8 @@ Simple React.js COVID-19 tracking web application. It fetches data from a remote
 # 🎁Additional Functionaliy 
 The web app was translated to Bulgarian and German (you can switch the language from the top central menu). The translations happens without the need to reload the page
 
-## 📨API Used: 
+## 📨API Used: [!API NO LONGER SUPPORTED]
+API: https://covid19.mathdro.id/api
 
 ## Inspired by: 
 JavaScript Mastery - https://youtu.be/khJlrj3Y6Ls
